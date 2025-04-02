@@ -1,3 +1,7 @@
+// Kaden Jain
+// Safe Input
+// Completed
+
 import java.util.Scanner;
 
 public class SafeInput {

@@ -1,5 +1,5 @@
 // Kaden Jain 3/28/2024
-// Tic Tac Toe program - COMPLETE
+// Tic Tac Toe program - COMPLETED
 
 
 import java.util.Scanner;
